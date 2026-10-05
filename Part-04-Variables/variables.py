@@ -1,6 +1,4 @@
-name = "Nathaniel"
+student_name = "Nathaniel"
 age = 20
-print (name)
-print (age)
-
-
+print(student_name)
+print(age)
